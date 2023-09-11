@@ -1,4 +1,4 @@
-package test;
+package mytest;
 
 
 import io.vavr.collection.List;
